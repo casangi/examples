@@ -2,9 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - os
   - time
-  - logging
   - numpy
   - dask
   - xarray
