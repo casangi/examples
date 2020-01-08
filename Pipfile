@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://casa-pip.nrao.edu/repository/pypi-casa-release/simple"
+verify_ssl = true
+name = "internal"
+
+[requires]
+python_version = "3.6"
+
+[dev-packages]
+"logging" = {version="*", index="pypi"}
+"os" = {version="*", index="pypi"}
+"time" = {version="*", index="pypi"}
+"numpy" = {version="*", index="pypi"}
+"dask" = {version="*", index="pypi"}
+"xarray" = {version="*", index="pypi"}
+"zarr" = {version="*", index="pypi"}
+
+[packages]
+"casatasks" = {version="6.0.0.27", index="internal"}
+"casatasks" = {version="6.0.0.27", index="internal"}
