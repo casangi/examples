@@ -11,7 +11,10 @@ name = "casa"
 [requires]
 python_version = "3.6"
 
-[dev-packages]
+[packages]
+"casatools" = {version=">=6.0.0.27", index="casa"}
+"casatasks" = {version=">=6.0.0.27", index="casa"}
+"cngi-prototype" = {version=">=0.0.23", index="pypi"}
 "logging" = {version="*", index="pypi"}
 "os" = {version="*", index="pypi"}
 "time" = {version="*", index="pypi"}
@@ -20,6 +23,4 @@ python_version = "3.6"
 "xarray" = {version="*", index="pypi"}
 "zarr" = {version="*", index="pypi"}
 
-[packages]
-"casatools" = {version=">=6.0.0.27", index="casa"}
-"casatasks" = {version=">=6.0.0.27", index="casa"}
+[dev-packages]
