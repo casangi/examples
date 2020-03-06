@@ -8,8 +8,8 @@ These notebooks can be run in a Google Colaboratory environment. To execute dire
   https://colab.research.google.com/github/casangi/examples/blob/master/Manipulating_visibilities.ipynb
 - Image Overview:  
   https://colab.research.google.com/github/casangi/examples/blob/master/Image_overview.ipynb  
-- Gridding Overview:  
-  https://colab.research.google.com/github/casangi/examples/blob/master/Gridding_overview.ipynb
+- Dirty Image Overview:  
+  https://colab.research.google.com/github/casangi/examples/blob/master/Dirty_Image_overview.ipynb
 
 ## Binder
 If you prefer not to use Google Colab, you can access and run all of the notebooks in this repository, hosted via the [Binder](https://mybinder.org/) project, by following this link:
