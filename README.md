@@ -3,11 +3,12 @@ This repository contains demonstrations that show how to use the CASA's next gen
 
 ## Colab
 These notebooks can be run in a Google Colaboratory environment. To execute directly from Github to Google servers use these links:
-- Visibility Overview: 
-  https://colab.research.google.com/github/casangi/examples/blob/master/Visibility_overview.ipynb
-- Image Overview: 
-  https://colab.research.google.com/github/casangi/examples/blob/master/Image_overview.ipynb
-- Gridding Overview: 
+- Visibility Overview:  
+  https://colab.research.google.com/github/casangi/examples/blob/master/Visibility_overview.ipynb  
+  https://colab.research.google.com/github/casangi/examples/blob/master/Manipulating_visibilities.ipynb
+- Image Overview:  
+  https://colab.research.google.com/github/casangi/examples/blob/master/Image_overview.ipynb  
+- Gridding Overview:  
   https://colab.research.google.com/github/casangi/examples/blob/master/Gridding_overview.ipynb
 
 ## Binder
