@@ -7,4 +7,4 @@ All scripts should be in Jupyter notebook format through [Google Colab](https://
 ## Organization
 All material provided by the community and CASA collaborators should be placed in the **community** folder.  
 
-Jupyter notebooks in this folder are automatically parsed to html and linked from the main [casadocs documentation](https://cngi-prototype.readthedocs.io/en/stable/).
+Jupyter notebooks in this folder are automatically parsed to html and linked from the main [casadocs documentation](https://casadocs.readthedocs.io/en/stable/).
