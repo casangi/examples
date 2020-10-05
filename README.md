@@ -1,16 +1,10 @@
 # Examples
-This repository contains demonstrations that show how to use the CASA's next generation infrastructure. The examples are formatted as [Jupyter notebooks](https://jupyter.org/).
+This repository contains demonstrations, examples, tutorials, and other scripts to demonstrate how to do things in CASA. 
 
 ## Colab
-These notebooks can be run in a Google Colaboratory environment. To execute directly from Github to Google servers use these links:
-- Visibility Overview:  
-  https://colab.research.google.com/github/casangi/examples/blob/master/Visibility_overview.ipynb  
-  https://colab.research.google.com/github/casangi/examples/blob/master/Manipulating_visibilities.ipynb
-- Image Overview:  
-  https://colab.research.google.com/github/casangi/examples/blob/master/Image_overview.ipynb  
-- ngCASA Synthesis Imaging Overview:  
-  https://colab.research.google.com/github/casangi/examples/blob/master/ngcasa_synthesis_imaging_overview.ipynb
+All scripts should be in Jupyter notebook format through [Google Colab](https://colab.research.google.com).  This ensures the entire community can execute the code in the same environment.  The Colab environment is integrated with GitHub and will allow direct saving of new notebooks in to this repository (after you have been granted write access).
 
-## Binder
-If you prefer not to use Google Colab, you can access and run all of the notebooks in this repository, hosted via the [Binder](https://mybinder.org/) project, by following this link:
-- https://mybinder.org/v2/gh/casangi/examples/master
+## Organization
+All material provided by the community and CASA collaborators should be placed in the community folder.  
+
+Jupyter notebooks in this folder are automatically parsed to html and linked from the main [casadocs documentation](https://cngi-prototype.readthedocs.io/en/stable/).
