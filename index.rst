@@ -5,6 +5,6 @@ A collection of community provided scripts covering various CASA tutorials, exam
 
 .. toctree::
    :glob:
-   :maxdepth: 3
+   :maxdepth: 2
    
    community/*
