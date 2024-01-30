@@ -3,7 +3,7 @@ Community Examples
 
 A collection of community provided scripts covering various CASA tutorials, examples, demonstrations, tips, tricks and general best practices. 
 
-.. warning:: CASA pip wheels run on Python 3.8, while Google Colab currently runs on 3.10. This means that the Notebooks do not run on Google Colab for the time being. Please download and run the Notebook Examples locally.
+.. warning:: CASA pip wheels based on Python 3.8 no longer run on Google Colab. Please use pip wheels that run on Python 3.10 (CASA 6.6.0+), or download and run the Notebook Examples locally.
 
 .. toctree::
    :glob:
